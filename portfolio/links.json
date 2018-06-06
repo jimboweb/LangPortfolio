@@ -13,52 +13,88 @@
       "name":"Fisk"
     },
     {
-      "image":"august_farmer.gif",
-      "link":"https://scratch.mit.edu/projects/212510512/",
-      "title": "Farmer Game",
-      "name":"August"
+      "image":"jacob_wizard.gif",
+      "link":"https://scratch.mit.edu/projects/199245703/",
+      "title": "Wizard & Ghost",
+      "name":"Jacob"
     },
     {
-      "image":"fisk_colors.gif",
-      "link":"https://scratch.mit.edu/projects/218085979/",
-      "title": "Colors",
-      "name":"Fisk"
+      "image":"mason_flappy.gif",
+      "link":"https://scratch.mit.edu/projects/210951541/",
+      "title": "Flappy",
+      "name":"Mason"
     },
     {
-      "image":"august_farmer.gif",
-      "link":"https://scratch.mit.edu/projects/212510512/",
-      "title": "Farmer Game",
-      "name":"August"
+      "image":"zoe_ruby.gif",
+      "link":"https://scratch.mit.edu/projects/212500335/",
+      "title": "Ruby and her Imaginary Unicorn",
+      "name":"Zoe"
     },
     {
-      "image":"fisk_colors.gif",
-      "link":"https://scratch.mit.edu/projects/218085979/",
-      "title": "Colors",
-      "name":"Fisk"
+      "image":"ada_rainbow.gif",
+      "link":"https://scratch.mit.edu/projects/218106024/#editor",
+      "title": "Rainbow Talking Muffins",
+      "name":"Ada"
     },
     {
-      "image":"august_farmer.gif",
-      "link":"https://scratch.mit.edu/projects/212510512/",
-      "title": "Farmer Game",
-      "name":"August"
+      "image":"micah_smileys.gif",
+      "link":"https://www.khanacademy.org/computer-programming/spin-off-of-moving-smileys-micahtracht-29198478187872376566736876929292968326455742657235/4728659108102144",
+      "title": "Moving Smileys",
+      "name":"Micah"
     },
     {
-      "image":"fisk_colors.gif",
-      "link":"https://scratch.mit.edu/projects/218085979/",
-      "title": "Colors",
-      "name":"Fisk"
+      "image":"conrad_taco.gif",
+      "link":"https://scratch.mit.edu/projects/203553440/#player",
+      "title": "Taco Squirrel",
+      "name":"Conrad"
     },
     {
-      "image":"august_farmer.gif",
-      "link":"https://scratch.mit.edu/projects/212510512/",
-      "title": "Farmer Game",
-      "name":"August"
+      "image":"kaiser_moves.gif",
+      "link":"https://www.khanacademy.org/computer-programming/spin-off-of-you-got-the-moves/4764592517447680",
+      "title": "You Got the Moves",
+      "name":"Kaiser"
     },
     {
-      "image":"fisk_colors.gif",
-      "link":"https://scratch.mit.edu/projects/218085979/",
-      "title": "Colors",
-      "name":"Fisk"
+      "image":"deklan_random.gif",
+      "link":"https://www.khanacademy.org/computer-programming/strange-randomness/4853264632283136",
+      "title": "Strange Randomness",
+      "name":"Deklan"
+    },
+    {
+      "image":"daniel_rocket.gif",
+      "link":"https://www.khanacademy.org/computer-programming/rocketship-race/5404443618607104",
+      "title": "Rocketship Race",
+      "name":"Daniel"
+    },
+    {
+      "image":"carys_bird.gif",
+      "link":"https://scratch.mit.edu/projects/200675837/#editor",
+      "title": "Bird Game",
+      "name":"Carys"
+    },
+    {
+      "image":"corbin_circles.gif",
+      "link":"https://www.khanacademy.org/computer-programming/color-circles-awesomness/5819139581050880",
+      "title": "Colored Circles Awesomeness",
+      "name":"Corbin"
+    },
+    {
+      "image":"lucy_rain.gif",
+      "link":"https://www.khanacademy.org/computer-programming/spin-off-of-project-make-it-rain/4557531610382336",
+      "title": "Make It Rain",
+      "name":"Lucy"
+    },
+    {
+      "image":"ella_svisland.gif",
+      "link":"https://www.khanacademy.org/computer-programming/project-travel-webpage/5698150415761408",
+      "title": "Travel to Svisland",
+      "name":"Ella"
+    },
+    {
+      "image":"daniel_rocket.gif",
+      "link":"https://www.khanacademy.org/computer-programming/rocketship-race/5404443618607104",
+      "title": "Rocket Race",
+      "name":"Daniel"
     }
    ]
 }
