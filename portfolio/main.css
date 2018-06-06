@@ -1,0 +1,12 @@
+img.thumbnail{
+    height:200px; width:200px
+}
+div.thumbnail {
+    margin: 20px;
+}
+div#thumbnails {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    width: 1000px;
+}

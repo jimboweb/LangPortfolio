@@ -1,17 +1,25 @@
 <!DOCTYPE html>
 <html lang="en">
+<link rel="stylesheet" type = "text/css" href="main.css" />
 <script src = "jquery-3.3.1.min.js"></script>
 <script src = "main.js"></script>
+<script src = "jsrender.min.js"></script>
+<script id="thumbnailTmpl"  type="text/x-jsrender">
+    <div class = "thumbnail">
+        <img class = "thumbnail" src = "images/{{:image}}" />
+    </div>
+</script>
+
 <head>
     <meta charset="UTF-8">
     <title>Title</title>
 </head>
 <body>
     <div id="slideshow">
-
+        <!--Main top image will go here-->
     </div>
     <div id="thumbnails">
-
+        <!--thumbnail images will go here-->
     </div>
 </body>
 </html>
