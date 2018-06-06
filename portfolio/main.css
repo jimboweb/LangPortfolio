@@ -1,12 +1,35 @@
+body {
+    font-family: sans-serif;
+}
+
+a {
+    text-decoration: none;
+}
+
 img.thumbnail{
     height:200px; width:200px
 }
 div.thumbnail {
-    margin: 20px;
+    margin: 10px;
 }
 div#thumbnails {
     display: flex;
     flex-wrap: wrap;
     justify-content: space-around;
-    width: 1000px;
+    width: 1200px;
+}
+
+div#slideshow {
+    text-align: center;
+    font-size: 2em;
+    font-weight: bold;
+
+}
+
+div.thumbnail a {
+    text-decoration: none;
+}
+
+div.thumbnail a figure figcaption {
+    text-align: center;
 }

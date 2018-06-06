@@ -4,19 +4,41 @@
 <script src = "jquery-3.3.1.min.js"></script>
 <script src = "main.js"></script>
 <script src = "jsrender.min.js"></script>
+
+<!--Begin JSX Template scripts-->
+
+<!--Template script for thumbnails-->
 <script id="thumbnailTmpl"  type="text/x-jsrender">
     <div class = "thumbnail">
-        <img class = "thumbnail" src = "images/{{:image}}" />
+        <a href = "{{:link}}">
+            <figure>
+                <img class = "thumbnail" src = "images/{{:image}}" />
+                <figcaption>{{:title}} - {{:name}}</figcaption>
+            </figure>
+
+        </a>
     </div>
 </script>
+<!--End TSX Template scripts-->
 
 <head>
     <meta charset="UTF-8">
     <title>Title</title>
 </head>
+
+
+
+
 <body>
-    <div id="slideshow">
-        <!--Main top image will go here-->
+    <div id="slideshow" data-next = "0">
+        <a href="" id="slideLink">
+            <figure>
+                <!--Main slideshow image here:-->
+                <img id="slideImage" />
+                <!--Main slideshow caption here-->
+                <figcaption id="slideCaption"></figcaption>
+            </figure>
+        </a>
     </div>
     <div id="thumbnails">
         <!--thumbnail images will go here-->
