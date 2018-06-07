@@ -26,7 +26,7 @@ const slideShow = () => {
     setInterval(doSwitchSlide, slideInterval*1000);
 }
 
-const doSwitchSlide = () => { //impure
+const doSwitchSlide = () => {
     const slideDiv = $("#slideshow");
     const nextTnDiv = parseInt(slideDiv.attr("data-next"));
     const thumbnails = $("#thumbnails").children();
